@@ -1,0 +1,10 @@
+[Event "Lucas Chess"]
+[Date "2016.03.20"]
+[White "Monkey"]
+[Black ""]
+[Result "0-1"]
+[ECO "A00"]
+[Opening "Amar (Paris) opening"]
+
+1.Nh3 e5 2.Ng5 f6 3.Nc3 fxg5 4.a4 Bb4 5.Nd5 Nf6 6.Ne7 Nc6 7.Ra2 d6 8.f4 Qxe7
+9.Rg1 O-O 10.h4 gxh4 11.fxe5 dxe5 12.c3 Bd6 13.Ra1 e4 14.Ra3 Bg3# 0-1
